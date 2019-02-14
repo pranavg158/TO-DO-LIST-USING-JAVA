@@ -1,9 +1,10 @@
+package tries;
 import java.util.*;
 import java.io.*;
-public class add {
+public class add3 {
 
-Scanner input=new Scanner(System.in) ;
-	public static void main(String args[])
+
+	public void adder()
 	{
 	    try
 	    {
@@ -22,12 +23,13 @@ Scanner input=new Scanner(System.in) ;
                 bout.write(' ');
                 System.out.print("Enter Time ");
                 bout.write(Float.toString(sc.nextFloat()));
+                bout.write(' ');
                 System.out.print("Enter Details");
                 bout.write(sc.next());
                 bout.write(' ');
                 System.out.print("\nDo you want to enter more?");
                 char c=sc.next().charAt(0);
-                bout.write(' ');
+                bout.write('\n');
                 if(c=='n' || c=='N')
                 {
                     flag=false;
