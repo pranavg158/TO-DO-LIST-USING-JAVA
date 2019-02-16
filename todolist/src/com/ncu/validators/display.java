@@ -1,4 +1,4 @@
-package tries;
+package com.ncu.validators;
 
 import java.io.*;
 import java.util.Scanner;
@@ -21,10 +21,10 @@ public void display()
     String line = null;
     try
     {
-        /* FileReader reads text files in the default encoding */
+        /* FileReader reads text files */
         FileReader fileReader = new FileReader(fname);
 
-        /* always wrap the FileReader in BufferedReader */
+        
         BufferedReader bufferedReader = new BufferedReader(fileReader);
 
         while((line = bufferedReader.readLine()) != null)

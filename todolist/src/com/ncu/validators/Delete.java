@@ -1,10 +1,12 @@
+//delete function
+package tries ;
 import java.io.*; 
   
-public class Delete 
+public class delete 
 { 
-    public static void main(String[] args) 
+    public void delet()
     { 
-        File file = new File("FILE LOCATION"); 
+        File file = new File("C:\\Users\\abc\\Desktop\\java_project\\todolist\\classes\\com\\ncu\\validators\\ToDo.txt"); 
           
         if(file.delete()) 
         { 

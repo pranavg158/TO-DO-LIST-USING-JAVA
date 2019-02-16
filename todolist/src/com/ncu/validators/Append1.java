@@ -1,15 +1,15 @@
 package com.ncu.validators;
 import java.util.*;
 import java.io.*;
-public class add3 {
+public class Append1 {
 
 
-	public void adder()
+	public void adder2()
 	{
 	    try // try catch block 
 	    {
 	        File f=new File("ToDo.txt");// opens the file
-	        FileWriter fout=new FileWriter(f);
+	        FileWriter fout=new FileWriter(f,true);
 	        BufferedWriter bout=new BufferedWriter(fout);
 	        Scanner sc=new Scanner(System.in);
 	        boolean flag=true;
@@ -41,7 +41,7 @@ public class add3 {
             FileReader fin=new FileReader(f);
             BufferedReader bin= new BufferedReader(fin);
             String sr;
-            System.out.println("The contents of the file are:");
+            System.out.println("The appended contents of the file are:");
             while((sr=bin.readLine())!=null)
             {
                 String[] strs = sr.split(" ");
