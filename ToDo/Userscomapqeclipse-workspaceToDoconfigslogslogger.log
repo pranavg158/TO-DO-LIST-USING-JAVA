@@ -1,0 +1,128 @@
+2019-02-17 15:44:53 ERROR NameValidator:258 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Namenull
+
+2019-02-17 15:45:26 ERROR NameValidator:258 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Namenull
+
+2019-02-17 15:47:36 ERROR NameValidator:257 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 15:48:15 ERROR NameValidator:257 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 15:49:27 ERROR NameValidator:257 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 15:50:46 ERROR NameValidator:257 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 15:52:13 ERROR NameValidator:261 - 
+ 
+src.com.ncu.exceptions.InvalidPasswordException: Invalid Password"Oops.. You have entered an invalid password..!"
+
+2019-02-17 15:56:22 ERROR NameValidator:257 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 15:58:14 ERROR NameValidator:249 - 
+ 
+src.com.ncu.exceptions.EmptyUserName: Empty File Name"Oops.. Empty UserName Is Not Acceptable ...!"
+
+2019-02-17 16:02:34 ERROR NameValidator:259 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 16:02:56 ERROR NameValidator:259 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 16:03:52 ERROR NameValidator:259 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 16:04:57 ERROR NameValidator:261 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 16:05:42 ERROR NameValidator:261 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 16:05:51 ERROR NameValidator:256 - 
+ 
+src.com.ncu.exceptions.EmptyPasswordException: Empty Password"Oops.. Password Is Missing.!"
+
+2019-02-17 16:10:26 ERROR NameValidator:261 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-17 16:25:31 ERROR NameValidator:264 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 09:10:41 ERROR NameValidator:261 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 09:10:54 ERROR NameValidator:256 - 
+ 
+src.com.ncu.exceptions.EmptyPasswordException: Empty Password"Oops.. Password Is Missing.!"
+
+2019-02-18 09:11:15 ERROR NameValidator:251 - 
+ 
+src.com.ncu.exceptions.EmptyUserName: Empty File Name"Oops.. Empty UserName Is Not Acceptable ...!"
+
+2019-02-18 09:26:37 ERROR NameValidator:326 - 
+ 
+src.com.ncu.exceptions.InvalidPasswordException: Invalid Password"Oops.. You have entered an invalid password..!"
+
+2019-02-18 09:26:52 ERROR NameValidator:311 - 
+ 
+src.com.ncu.exceptions.EmptyUserName: Empty File Name"Oops.. Empty UserName Is Not Acceptable ...!"
+
+2019-02-18 09:27:03 ERROR NameValidator:321 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 09:37:19 ERROR NameValidator:326 - 
+ 
+src.com.ncu.exceptions.InvalidPasswordException: Invalid Password"Oops.. You have entered an invalid password..!"
+
+2019-02-18 10:19:50 ERROR NameValidator:342 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 10:19:51 ERROR NameValidator:342 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 10:22:31 ERROR NameValidator:333 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 11:07:02 ERROR NameValidator:227 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 11:53:50 ERROR NameValidator:219 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 11:54:36 ERROR NameValidator:219 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
+2019-02-18 11:56:00 ERROR NameValidator:214 - 
+ 
+src.com.ncu.exceptions.EmptyPasswordException: Empty Password"Oops.. Password Is Missing.!"
+
+2019-02-18 11:58:29 ERROR NameValidator:261 - 
+ 
+src.com.ncu.exceptions.InvalidUserNameException: Invalid User Name"You have entered an invalid username ..!"
+
